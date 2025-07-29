@@ -8,6 +8,7 @@ The dashboard leverages interactive visuals and KPIs to make complex data easy t
 📌 Key Highlights
 
    🔹 Total KPIs
+   
     **Total Claims:** 4,972  
     **Average Claims:** 0.50  
     **Total Claims Adjusted:** 368K  
@@ -15,16 +16,19 @@ The dashboard leverages interactive visuals and KPIs to make complex data easy t
     **Count of Index:** 10,000  
 
    🔹 Claims Severity
+   
     **Low Severity:** 7.0K  
     **Medium Severity:** 2.0K  
     **High Severity:** 1.0K  
 
    🔹 Regional Distribution
+   
     **Urban:** 49.21%  
     **Suburban:** 30.23%  
     **Rural:** 20.56%  
 
    🔹 Additional Insights
+   
     **Average Claim vs Premium Scatter Plot:** Shows relation between claim amount and premium charged  
     **Claim Severity by Region:** Visualizes how severity differs in urban, suburban, and rural areas  
     **Claims by Age Bins:** Analyzes age distribution vs severity  
@@ -44,12 +48,15 @@ The dashboard leverages interactive visuals and KPIs to make complex data easy t
  📁 File Details
 
    **Power BI Report:** Fully interactive with slicers for:
+   
   - Policy Type  
   - Region  
   - Source of Lead  
   - Marital Status  
-  **Data Used:** Synthetic insurance data with demographic and policy information  
+  **Data Used:** Synthetic insurance data with demographic and policy information
+    
   **Main Visuals:**
+  
   - KPI Cards  
   - Clustered Column Charts  
   - Donut Charts  
