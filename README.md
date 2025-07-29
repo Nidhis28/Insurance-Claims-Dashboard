@@ -19,6 +19,8 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
 🧾Customer Index Count:10,000  
 
 
+
+
 📊 Claims Severity Breakdown
 
 🔴Low Severity:7,000 
@@ -27,6 +29,8 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
 
 🟢High Severity:1,000  
 
+
+
 🗺 Regional Distribution
 
 🏙Urban:49.21%  
@@ -34,6 +38,8 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
 🏘Suburban:30.23% 
 
 🌾Rural:20.56%  
+
+
 
 🔍 Interactive Filters
 
@@ -47,6 +53,8 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
 
  📈 Visual Components
 
+ 
+
  ✅ KPI Summary Cards  
  
  📊 Clustered Column Charts 
@@ -54,6 +62,8 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
  🍩 Donut Charts  
  
  📉 Claim Severity by Region
+
+ 
  
  🎯 Age Distribution vs. Claim Severity  
  
