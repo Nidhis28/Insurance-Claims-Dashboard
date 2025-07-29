@@ -84,9 +84,9 @@ Key Features:
 
   🧠 Tech Stack
 
- [Power BI](https://powerbi.microsoft.com/)  
- Microsoft Excel / CSV  
- GitHub (for versioning & project hosting)
+      [Power BI](https://powerbi.microsoft.com/)  
+      Microsoft Excel / CSV  
+      GitHub (for versioning & project hosting)
 
 
    📸 Dashboard Snapshot
