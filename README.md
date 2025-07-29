@@ -44,21 +44,22 @@ Key Features:
 
    🧩 Interactive Filters
 
-       Policy Type: Full Coverage, Liability Only  
-       Region: Urban, Suburban, Rural  
-       Source of Lead: Agent, Online, Referral  
-       Marital Status: Married, Divorced, Single  
+       1.Policy Type: Full Coverage, Liability Only  
+       2.Region: Urban, Suburban, Rural  
+       3.Source of Lead: Agent, Online, Referral  
+       4.Marital Status: Married, Divorced, Single  
 
 
 
   📈 Visual Components
 
-      KPI Summary Cards  
-      Clustered Column Charts  
-      Donut Charts  
-      Claim Severity by Region  
-      Age Distribution vs. Claim Severity  
-      Claim Amount vs. Premium Scatter Plot  
+     
+    - ✅ KPI Summary Cards  
+    - 📊 Clustered Column Charts  
+    - 🍩 Donut Charts  
+    - 📉 Claim Severity by Region  
+    - 🎯 Age Distribution vs. Claim Severity  
+    - 💰 Claim Amount vs. Premium Scatter Plot
 
 
 
