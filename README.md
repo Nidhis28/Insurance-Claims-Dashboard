@@ -23,6 +23,7 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
 
 📊 Claims Severity Breakdown
 
+
 🔴Low Severity:7,000 
 
 🟡Medium Severity:2,000
@@ -33,6 +34,7 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
 
 🗺 Regional Distribution
 
+
 🏙Urban:49.21%  
 
 🏘Suburban:30.23% 
@@ -42,6 +44,7 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
 
 
 🔍 Interactive Filters
+
 
   Policy Type: Full Coverage, Liability Only  
   
@@ -60,6 +63,7 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
  📊 Clustered Column Charts 
  
  🍩 Donut Charts  
+ 
  
  📉 Claim Severity by Region
 
