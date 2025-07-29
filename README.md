@@ -19,8 +19,6 @@ This interactive Power BI dashboard delivers a deep-dive analysis of synthetic i
 🧾Customer Index Count:10,000  
 
 
-
-
 📊 Claims Severity Breakdown
 
 
