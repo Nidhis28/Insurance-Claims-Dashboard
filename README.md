@@ -10,11 +10,11 @@ This dashboard simplifies complex insurance datasets into clear, actionable visu
 
 Key Features:
 
-User-Friendly Interface: Interactive dashboard built in Power BI with filters and slicers for detailed exploration.
+.User-Friendly Interface: Interactive dashboard built in Power BI with filters and slicers for detailed exploration.
 
-Business-Focused Insights: Helps identify high-risk regions, optimize lead sources, and analyze claim patterns.
+.Business-Focused Insights: Helps identify high-risk regions, optimize lead sources, and analyze claim patterns.
 
-Clean Data Storytelling: Transforms raw data into clear and visually engaging reports.
+.Clean Data Storytelling: Transforms raw data into clear and visually engaging reports.
 
  🌟 Key Insights & KPIs
 
@@ -53,12 +53,12 @@ Clean Data Storytelling: Transforms raw data into clear and visually engaging re
 
   📈 Visual Components
 
-  ✅ KPI Summary Cards  
-  📊 Clustered Column Charts  
-  🍩 Donut Charts  
-  📉 Claim Severity by Region  
-  🎯 Age Distribution vs. Claim Severity  
-  💰 Claim Amount vs. Premium Scatter Plot  
+      KPI Summary Cards  
+      Clustered Column Charts  
+      Donut Charts  
+      Claim Severity by Region  
+      Age Distribution vs. Claim Severity  
+      Claim Amount vs. Premium Scatter Plot  
 
 
 
