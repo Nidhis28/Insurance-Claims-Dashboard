@@ -1,91 +1,98 @@
- 📊 Insurance Claims & Leads Analysis Dashboard
+📊 Insurance Claims & Leads Analysis Dashboard
 
- 📝 Overview:
+Overview:
+
+This interactive Power BI dashboard delivers a deep-dive analysis of synthetic insurance claims and lead data. It highlights key insights around claim severity, regional distribution, lead sources, and customer demographics enabling strategic decisions across marketing, underwriting, and risk assessment.
+
+🔍 Designed for business users, this report simplifies complex data into intuitive visuals and KPIs.
+
+🌟 Key Insights & KPIs
+
+📌Total Claims:4,972 
  
-This Power BI dashboard provides a comprehensive analysis of synthetic insurance claims and lead data. It helps identify key insights about claim severity, regional trends, customer demographics, and lead sources to drive strategic decisions in the insurance sector.
-The dashboard leverages interactive visuals and KPIs to make complex data easy to understand for business stakeholders.
-
-📌 Key Highlights
-
-   🔹 Total KPIs
-   
-    **Total Claims:** 4,972  
-    **Average Claims:** 0.50  
-    **Total Claims Adjusted:** 368K  
-    **Sum of Bundling Score:** 972  
-    **Count of Index:** 10,000  
-
-   🔹 Claims Severity
-   
-    **Low Severity:** 7.0K  
-    **Medium Severity:** 2.0K  
-    **High Severity:** 1.0K  
-
-   🔹 Regional Distribution
-   
-    **Urban:** 49.21%  
-    **Suburban:** 30.23%  
-    **Rural:** 20.56%  
-
-   🔹 Additional Insights
-   
-    **Average Claim vs Premium Scatter Plot:** Shows relation between claim amount and premium charged  
-    **Claim Severity by Region:** Visualizes how severity differs in urban, suburban, and rural areas  
-    **Claims by Age Bins:** Analyzes age distribution vs severity  
-    **Source of Lead Filter:** Agent, Online, Referral  
-    **Policy Type Filter:** Full Coverage, Liability Only  
-    **Marital Status Filter:** Divorced, Married, Single  
-
- 🎯 Business Use-Cases
-
-- Detect regions and demographics with high-risk claims  
-- Optimize lead source and marketing strategy  
-- Understand relationship between premium and claim amount  
-- Segment customers by age and region for personalized insurance offerings  
-- Monitor trends in policy type and customer severity reports  
+💸Average Claim Amount:₹8.50K
+ 
+🛠Adjusted Claims:368K 
+ 
+📦Bundling Score:972  
+ 
+🧾Customer Index Count:10,000  
 
 
- 📁 File Details
+📊 Claims Severity Breakdown
 
-   **Power BI Report:** Fully interactive with slicers for:
-   
-  - Policy Type  
-  - Region  
-  - Source of Lead  
-  - Marital Status  
-  **Data Used:** Synthetic insurance data with demographic and policy information
+🔴Low Severity:7,000 
+
+🟡Medium Severity:2,000
+
+🟢High Severity:1,000  
+
+🗺 Regional Distribution
+
+🏙Urban:49.21%  
+
+🏘Suburban:30.23% 
+
+🌾Rural:20.56%  
+
+🔍 Interactive Filters
+
+  Policy Type: Full Coverage, Liability Only  
+  
+  Region: Urban, Suburban, Rural  
+  
+  Source of Lead: Agent, Online, Referral  
+  
+  Marital Status: Married, Divorced, Single  
+
+ 📈 Visual Components
+
+ ✅ KPI Summary Cards  
+ 
+ 📊 Clustered Column Charts 
+ 
+ 🍩 Donut Charts  
+ 
+ 📉 Claim Severity by Region
+ 
+ 🎯 Age Distribution vs. Claim Severity  
+ 
+ 💰 Claim Amount vs. Premium Scatter Plot  
+
+
+
+ 💼 Business Use-Cases
+
+    Identify high-risk regions and customer profiles 
     
-  **Main Visuals:**
-  
-  - KPI Cards  
-  - Clustered Column Charts  
-  - Donut Charts  
-  - Stacked Column and Bar Charts  
-  - Scatter Plot  
+    Optimize lead source efficiency  
+    
+    Personalize insurance offerings by demographics
+    
+    Drive marketing and policy pricing decisions  
+    
+    Monitor trends in claim types and premium behaviors  
 
 
- 📷 Screenshot
+
+ 🗃 Data Source
+
+ Dataset:Synthetic Insurance Claims and Leads
  
- <img width="743" height="413" alt="INSURANCE Snapshort" src="https://github.com/user-attachments/assets/335a19cd-7eed-42d1-b5d9-67240e822525" />
+ Format:.csv and .xlsx  
+ 
+ Size:2.3MB  
+
+🧠 Tech Stack
+
+ Power BI  
+ 
+ Microsoft Excel / CSV 
+ 
+ GitHub (for versioning & hosting)  
+
+ Snapshot
+
+ <img width="743" height="413" alt="INSURANCE Snapshort" src="https://github.com/user-attachments/assets/eebc2d39-a2b2-40db-a4b6-37686eb2ad72" />
 
 
-
- 🚀 Future Enhancements
-
-- Add predictive modeling to forecast claim severity  
-- Include claim approval rate and turnaround time  
-- Build role-based access (agent, manager, executive) views  
-- Enable drill-down to customer-level data  
-
-
-🤝 Acknowledgements
-
-This dashboard is based on synthetic insurance data and designed to demonstrate best practices in Power BI for insurance analytics and decision-making.
-
- 📬 Contact
-
-  Created by: Nidhi Singh 
-  
-  LinkedIn: https://www.linkedin.com/in/nidhi-singh-3708461a0
-  
-  Email: nidhisingh12726@gmail.com
