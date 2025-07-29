@@ -11,7 +11,9 @@ This dashboard simplifies complex insurance datasets into clear, actionable visu
 Key Features:
 
 User-Friendly Interface: Interactive dashboard built in Power BI with filters and slicers for detailed exploration.
+
 Business-Focused Insights: Helps identify high-risk regions, optimize lead sources, and analyze claim patterns.
+
 Clean Data Storytelling: Transforms raw data into clear and visually engaging reports.
 
  🌟 Key Insights & KPIs
