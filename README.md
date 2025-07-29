@@ -64,11 +64,11 @@ Clean Data Storytelling: Transforms raw data into clear and visually engaging re
 
  💼 Business Use-Cases
 
-  Identify high-risk regions and customer profiles  
-  Optimize lead generation efficiency  
-  Tailor insurance offerings using customer demographics  
-  Drive marketing and pricing strategies  
-  Monitor trends in claim type and premium behavior  
+     Identify high-risk regions and customer profiles  
+     Optimize lead generation efficiency  
+     Tailor insurance offerings using customer demographics  
+     Drive marketing and pricing strategies  
+     Monitor trends in claim type and premium behavior  
 
 
 
